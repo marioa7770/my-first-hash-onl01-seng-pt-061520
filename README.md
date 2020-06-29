@@ -1,3 +1,4 @@
+learn
 # My First Hash
 
 ## Objectives
